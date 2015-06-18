@@ -20,6 +20,8 @@
 
 ## Overview
 
+this is bogus
+
 Before you can use Log Management in Microsoft Azure Operational Insights, you must have the intelligence pack installed. Since this pack must be configured and does not collect anything by default, it is enabled by default in every new workspace. If you have removed it, you can add it again from the Intelligence Packs Gallery, see [Use the Gallery to add or remove intelligence packs](https://msdn.microsoft.com/en-us/library/azure/dn873980.aspx). 
 
 You can add new logs to collect events and choose which event levels or severity that you want to collect for the logs.
